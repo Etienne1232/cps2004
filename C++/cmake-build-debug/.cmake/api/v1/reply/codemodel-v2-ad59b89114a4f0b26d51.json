@@ -1,0 +1,141 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Code",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "1q1.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1q1.cpp-Debug-b763d793890f4fba6b9d.json",
+					"name" : "1q1.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "1q10.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1q10.cpp-Debug-d6ab9ab98d50b4c99c44.json",
+					"name" : "1q10.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "1q11.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1q11.cpp-Debug-176d2350165f84ed023d.json",
+					"name" : "1q11.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "1q2.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1q2.cpp-Debug-927ee7ff5d4330545c16.json",
+					"name" : "1q2.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "1q3.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1q3.cpp-Debug-a9009bbdf8857fa44150.json",
+					"name" : "1q3.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "1q4.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1q4.cpp-Debug-d45d8bb6f08cde9a5002.json",
+					"name" : "1q4.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "1q5.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1q5.cpp-Debug-739ea72c5ce5a228d024.json",
+					"name" : "1q5.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "1q6.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1q6.cpp-Debug-f509c89ae09ce7ee736b.json",
+					"name" : "1q6.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "1q7.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1q7.cpp-Debug-788394e2ef85800c1071.json",
+					"name" : "1q7.cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "1q8.cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1q8.cpp-Debug-2fb4109311122c1a7033.json",
+					"name" : "1q8.cpp",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/raylo/Desktop/Artificial Intelligence/Year 2/CPS2004 - OOP/Code/C++/cmake-build-debug",
+		"source" : "C:/Users/raylo/Desktop/Artificial Intelligence/Year 2/CPS2004 - OOP/Code/C++"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
