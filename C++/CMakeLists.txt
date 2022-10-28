@@ -13,5 +13,6 @@ add_executable(1q7.cpp "Tutorial Sheet 1/q7.cpp")
 add_executable(1q8.cpp "Tutorial Sheet 1/q8.cpp")
 add_executable(1q10.cpp "Tutorial Sheet 1/q10.cpp")
 add_executable(1q11.cpp "Tutorial Sheet 1/q11.cpp")
+add_executable(1q12.cpp "Tutorial Sheet 1/q12.cpp")
 
 
